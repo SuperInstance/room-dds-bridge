@@ -1,7 +1,7 @@
 [package]
 name = "room-dds-bridge"
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
 description = "Auto-configure DDS domains from ternary-mud room topology"
 license = "MIT"
 repository = "https://github.com/SuperInstance/room-dds-bridge"
